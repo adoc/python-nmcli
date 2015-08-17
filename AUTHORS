@@ -1,3 +1,7 @@
-# Code originally forked from ansible-nmcli (https://github.com/migonzalvar/ansible-nmcli) by Miguel Gonzalez (https://github.com/migonzalvar)
-Miguel Gonzalez 
+# Code originally forked from ansible-nmcli
+# (https://github.com/migonzalvar/ansible-nmcli) by Miguel Gonzalez
+# (https://github.com/migonzalvar)
+
+Miguel Gonzalez
 Zach Goldberg (zach@zachgoldberg.com)
+C. Nicholas Long (adoc@code.webmob.net)
